@@ -1,0 +1,29 @@
+Satyam Singh - Robotics Developer | Python Expert | IoT Innovator | Educator
+
+Summary
+Electronics and Computer Science Engineer specializing in robotics, AI, and embedded systems. Experienced with Raspberry Pi, Arduino, and real-world builds like autonomous drones, home automation systems, and hot bonders. Passionate educator with 2+ years of teaching robotics and AI to students and conducting AI-in-education workshops for teachers.
+
+Core Skills
+- Python, OpenCV, Flask
+- Raspberry Pi, Arduino, STM32
+- Robotics, ROS, PX4
+- IoT, MQTT, Embedded Systems
+- PCB Design, Sensors & Actuators
+- Teaching, Curriculum Design
+
+Experience
+Robotics Instructor — 2+ years across multiple schools and institutions
+- Designed and led hands-on classes for grades 2–9 in robotics and AI.
+- Built interactive tools and modules for AI literacy.
+- Conducted workshops for teachers on practical AI in classrooms.
+
+Highlighted Projects
+- Autonomous Drone: CV-based tracking and navigation.
+- Hotbonder: Industrial temperature controller with safety interlocks.
+- Home Automation Hub: Voice control, dashboards, energy monitoring.
+- AI Workshop Tools: Interactive demos for students and educators.
+
+Contact
+Email: satyam@example.com
+LinkedIn: https://linkedin.com/
+GitHub: https://github.com/
