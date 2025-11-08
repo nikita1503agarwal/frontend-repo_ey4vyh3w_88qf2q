@@ -29,7 +29,7 @@ export default function Navbar() {
       { rootMargin: '-40% 0px -55% 0px', threshold: [0, 0.25, 0.5, 0.75, 1] }
     )
 
-    sections.forEach((sec) => observer.observe(sec!))
+    sections.forEach((sec) => observer.observe(sec))
     return () => observer.disconnect()
   }, [])
 
