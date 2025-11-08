@@ -15,7 +15,7 @@ export default function Navbar() {
   }, [theme])
 
   useEffect(() => {
-    const sectionIds = ['home', 'about', 'projects', 'workshops', 'contact']
+    const sectionIds = ['home', 'projects', 'contact']
     const sections = sectionIds
       .map((id) => document.getElementById(id))
       .filter(Boolean)
@@ -35,9 +35,7 @@ export default function Navbar() {
 
   const navItems = [
     { href: '#home', id: 'home', label: 'Home' },
-    { href: '#about', id: 'about', label: 'About' },
     { href: '#projects', id: 'projects', label: 'Projects' },
-    { href: '#workshops', id: 'workshops', label: 'Workshops' },
     { href: '#contact', id: 'contact', label: 'Contact' },
   ]
 

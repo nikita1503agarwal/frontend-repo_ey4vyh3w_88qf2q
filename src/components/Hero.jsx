@@ -28,6 +28,12 @@ export default function Hero() {
           >
             <Download size={18} /> Download Resume
           </a>
+          <a
+            href="#contact"
+            className="inline-flex items-center gap-2 rounded-md bg-white/10 hover:bg-white/20 text-white px-5 py-2.5 text-sm font-semibold transition-colors"
+          >
+            Get in touch
+          </a>
           <div className="flex items-center gap-3">
             <a href="https://github.com/" target="_blank" rel="noreferrer" aria-label="GitHub" className="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/10 hover:bg-white/20 transition-colors">
               <Github size={18} />
