@@ -3,13 +3,13 @@
 > vite
 
 
-  VITE v5.4.20  ready in 267 ms
+  VITE v5.4.20  ready in 287 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.18.119:3000/
-5:45:28 PM [vite] Pre-transform error: Transform failed with 1 error:
+5:47:04 PM [vite] Pre-transform error: Transform failed with 1 error:
 /home/workspace/src/components/Navbar.jsx:32:50: ERROR: Unexpected "!"
-5:45:29 PM [vite] Internal server error: Transform failed with 1 error:
+5:47:05 PM [vite] Internal server error: Transform failed with 1 error:
 /home/workspace/src/components/Navbar.jsx:32:50: ERROR: Unexpected "!"
   Plugin: vite:esbuild
   File: /home/workspace/src/components/Navbar.jsx:32:50
@@ -32,7 +32,7 @@
       at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
       at Readable.push (node:internal/streams/readable:390:5)
       at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
-5:45:56 PM [vite] Internal server error: Transform failed with 1 error:
+5:47:09 PM [vite] Internal server error: Transform failed with 1 error:
 /home/workspace/src/components/Navbar.jsx:32:50: ERROR: Unexpected "!"
   Plugin: vite:esbuild
   File: /home/workspace/src/components/Navbar.jsx:32:50
